@@ -14,3 +14,16 @@ def playMadlibs():
     
     
     return output
+
+
+
+
+
+
+
+
+
+
+
+
+Me and that guy (insert name) were taking (adj) walk. We were having 

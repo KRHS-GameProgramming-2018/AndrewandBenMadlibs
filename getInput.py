@@ -48,6 +48,12 @@ def getNumber(prompt, minNumber, maxNumber):
 
 def isSwear(word):
     swearList = ["poop",
+                "damn",
+                "fuck",
+                "fucking",
+                "fucked",
+                "shit",
+                
                 "piss"
                 ]
     if word in swearList:
