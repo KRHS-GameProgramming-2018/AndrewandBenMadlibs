@@ -60,8 +60,13 @@ def isSwear(word):
                 "godamn",
                 "diddle",
                 "shit",
-                
+                "diddle",
                 "piss"
+                "dingle berry"
+                "dildo"
+                "fag"
+                "Faggot"
+                "  juul"
                 ]
     if word in swearList:
         return True
