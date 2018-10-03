@@ -52,6 +52,13 @@ def isSwear(word):
                 "fuck",
                 "fucking",
                 "fucked",
+                "nigger",
+                "kike",
+                "Spic",
+                "Dyke",
+                "Darn",
+                "godamn",
+                "diddle",
                 "shit",
                 
                 "piss"

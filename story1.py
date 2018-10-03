@@ -4,14 +4,16 @@ def playMadlibs():
     friend1 = getWord("Enter a Name: ")
     numAnimals = getNumber("Enter a number: ", 2, 10)
     animals1 = getWord("Enter a pluaral animal name: ")
+    adjective = getWord("Enter an adjective")
     
     output = ""
-    output += "One day I was walking with my friend, " + friend1
-    output += ". Suddenly " + friend1
-    output += " said that they saw " + numAnimals + " " + animals1
-    
-    
-    
+    output += "Me and my friend, " + friend1
+    output += ". were taking a walk when suddenly  " + friend1
+    output += " said that this walk was " + adjective1
+    output += "I agreed this was a" + adjective1
+    output += "after saying that we arrived on top of the hill and set up a picnic"
+    output += "did you bring the" + food1 
+    output += "
     
     return output
 
@@ -26,4 +28,3 @@ def playMadlibs():
 
 
 
-Me and that guy (insert name) were taking (adj) walk. We were having 
