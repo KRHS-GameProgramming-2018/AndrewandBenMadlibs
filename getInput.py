@@ -52,14 +52,16 @@ def isSwear(word):
                 "fuck",
                 "fucking",
                 "fucked",
-                "shit",
+                "nigger",
+                "kike",
+                "Spic",
+                "Dyke",
+                "Darn",
+                "godamn",
                 "diddle",
+                "shit",
+                
                 "piss"
-                "dingle berry"
-                "dildo"
-                "fag"
-                "Faggot"
-                "  juul"
                 ]
     if word in swearList:
         return True
