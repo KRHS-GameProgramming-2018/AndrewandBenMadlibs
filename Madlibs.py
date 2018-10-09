@@ -16,5 +16,5 @@ while go:
         print story1.playMadlibs()
         raw_input("Press Enter to Continue")
     else:
-        print "OMG Got invalid menu option!!!"
+        print "invaild option"
 

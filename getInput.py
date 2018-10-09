@@ -54,13 +54,26 @@ def isSwear(word):
                 "fucked",
                 "nigger",
                 "kike",
+                "shit",
                 "Spic",
                 "Dyke",
                 "Darn",
                 "godamn",
                 "diddle",
                 "shit",
-                
+                "cunt",
+                "jewnigger",
+                "ass",
+                "bitch",
+                "bastard",
+                "cock",
+                "slut",
+                "vapid-bitch",
+                "fag",
+                "faggot",
+                "chode",
+                "whore"
+                "fucking",
                 "piss"
                 ]
     if word in swearList:
