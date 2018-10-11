@@ -18,6 +18,8 @@ def playMadlibs():
     output += "I know it sure is crazy that we have been walking for"+ numb1
     output += "hours it sure is a long walk"
     output += "Wow I think I see a"+bird1
+    output += "Thats so cool"
+    output += "wow this sunset sure is"+adj1
     output += "
 
     
