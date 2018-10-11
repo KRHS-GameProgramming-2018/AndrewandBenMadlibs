@@ -22,17 +22,7 @@ def playMadlibs():
     output += "wow what a crazy day, I should use my " +communicationsdevice1
     output += "and call my other friend " +friend2
     output += "ok sounds good, thanks for the "+ adj2
-    output += "day."
+    output += "day"
     return output
-
-
-
-
-
-
-
-
-
-
 
 

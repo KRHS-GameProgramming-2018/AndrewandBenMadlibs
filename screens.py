@@ -19,7 +19,7 @@ def showMenu():
     output += "|                                     |\n"
     output += "|   2) A Slow Walk                    |\n"
     output += "|                                     |\n"
-    output += "|   3) Teenage Highjinks              |\n"
+    output += "|   3) A Long Walk                    |\n"
     output += "|                                     |\n"
     output += "|   q) Quit                           |\n"
     output += "---------------------------------------\n"
