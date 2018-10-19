@@ -10,7 +10,7 @@ def playMadlibs():
     color1 = getWord("enter a color")
     adj2 = getWord("Enter an adjective")
     month1 = getWord("Enter a month")
-    
+                                
     output = ""
     output += "Wow what a long walk"
     output += "I know it sure is crazy that we have been walking for"+ numb1
@@ -26,8 +26,4 @@ def playMadlibs():
     output += "paint ahould make it stand out amoung these" +Treetype1
     output += "Yeah these trees sure are" +adj2
     output += "Wow what a great day in" +month1
-    
-    
-    
-    
-    
+    return output

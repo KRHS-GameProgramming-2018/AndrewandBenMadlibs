@@ -1,6 +1,7 @@
 from screens import *
 from getInput import *
-import story1
+from story1 import *
+from story3 import *
 
 print showSplash()
 raw_input("Press Enter to Start")

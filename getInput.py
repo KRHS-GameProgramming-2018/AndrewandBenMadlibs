@@ -46,6 +46,23 @@ def getNumber(prompt, minNumber, maxNumber):
             
     return word
 
+def getTreetype(prompt):  
+    goodInput = False
+    while not goodinput: 
+        word = raw_input(prompt)
+        trees = ["oak",
+                  "maple",
+                  "birch",
+                  "magnolia",
+                  "redwood",
+                  ]
+        goodInput = False
+        if word in trees:
+            goodInput = True
+        else:
+            print "I've never heard of that type of tree"
+    return word
+
 def isSwear(word):
     swearList = ["poop",
                 "damn",
