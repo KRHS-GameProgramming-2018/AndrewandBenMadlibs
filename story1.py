@@ -24,5 +24,5 @@ def playMadlibs():
     output += "ok sounds good, thanks for the "+ adj2
     output += "day"
     return output
-
+                   
 
