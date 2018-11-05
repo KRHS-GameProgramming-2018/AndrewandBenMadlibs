@@ -6,7 +6,7 @@ def playMadlibs():
     name1 = getWord("Enter a Name")
     adjective1 = getWord("Enter an adjective")
     vechile1 = getWord("enter a vechile")
-    treetype1 = getWord("Enter a communications device")
+    treetype1 = getWord("Enter a communications device") # Shouldn't this use get tree?
     color1 = getWord("enter a color")
     adj2 = getWord("Enter an adjective")
     month1 = getWord("Enter a month")
