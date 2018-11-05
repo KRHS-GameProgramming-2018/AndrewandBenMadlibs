@@ -18,6 +18,8 @@ def getMenuInput():
             print "Please make a valid choice"
     return response
     
+#What happened to get Tree?
+    
 def getWord(prompt):
     goodInput = False
     while not goodInput:
