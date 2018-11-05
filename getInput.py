@@ -6,6 +6,10 @@ def getMenuInput():
             or response == "One"):
             response = "1"
             goodInput = True
+        if (response == "3" 
+            or response == "three"):
+            response = "3"
+            goodInput = True
         elif (response == "Q"
               or response == "Quit"
               or response == "q"
@@ -55,6 +59,7 @@ def getTreetype(prompt):
                   "birch",
                   "magnolia",
                   "redwood",
+                  "beech",
                   ]
         goodInput = False
         if word in trees:

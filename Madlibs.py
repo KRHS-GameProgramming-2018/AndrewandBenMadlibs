@@ -1,7 +1,7 @@
 from screens import *
 from getInput import *
-from story1 import *
-from story3 import *
+import story1 
+import story3 
 
 print showSplash()
 raw_input("Press Enter to Start")
@@ -15,6 +15,9 @@ while go:
         print "Goodbye and thanks for playing"
     elif response == "1":
         print story1.playMadlibs()
+        raw_input("Press Enter to Continue")
+    elif response == "3":
+        print story3.playMadlibs()
         raw_input("Press Enter to Continue")
     else:
         print "invaild option"
